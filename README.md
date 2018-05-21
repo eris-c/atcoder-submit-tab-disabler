@@ -6,7 +6,7 @@ https://github.com/eris-c/atcoder-submit-tab-disabler/raw/master/disable-submit-
 
 ## Overview
 
-* this script just disables the "Submit" tab, and forces you to submit from each task's submit form.
+* this script just disables the "Submit" tab, and forces you to submit via each task's page.
   * I often posted codes to different tasks ( = WA).
 * both https://atcoder.jp/ and https://beta.atcoder.jp/ supported.
 * Firefox + Greasemonkey, or Google Chrome + Tampermonkey
